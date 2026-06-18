@@ -1,3 +1,8 @@
+> [!WARNING]
+> This repository has been archived and is no longer maintained.  
+> The code is provided for historical reference and may contain unpatched or unknown vulnerabilities.  
+> It should not be used in production systems.  
+
 # HapFerret
 [![GitHub issues](https://img.shields.io/github/issues/CCBR/HapFerret)](https://github.com/CCBR/HapFerret/issues) [![GitHub license](https://img.shields.io/github/license/CCBR/HapFerret)](https://github.com/CCBR/HapFerret/blob/master/LICENSE)
 
